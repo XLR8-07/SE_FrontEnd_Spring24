@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    border: 1px solid black;
+    border-radius: 8px;
+    box-shadow: 1px 1px;
+    height: 300px;
+    width: 350px;
+}
