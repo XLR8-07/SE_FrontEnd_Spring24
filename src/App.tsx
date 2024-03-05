@@ -7,7 +7,6 @@ import AuthComponent from './components/auth-component/auth-component';
 function App() {
   return (
     <div className="App">
-      {/* <TestComponent name="Shojib" age={50}/> */}
       <AuthComponent/>
     </div>
   );
